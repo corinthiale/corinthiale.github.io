@@ -13,13 +13,13 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #EEEEEE;
+$background-color: #444444;
+$brand-color:      #ee4934;	// Link color
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       #acaaaa;
+$grey-color-light: lighten($grey-color, 00%);
+$grey-color-dark:  darken($grey-color, 00%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
