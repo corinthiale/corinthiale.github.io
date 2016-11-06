@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corinthiale</title>
+    <description>The official site of the Corinthiale
+</description>
+    <link>https://corinthiale.github.io/</link>
+    <atom:link href="https://corinthiale.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 06 Nov 2016 02:31:04 +0200</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2016 02:31:04 +0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>It&#39;s alive!</title>
+        <description>&lt;p&gt;Corinthiale page is live.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Nov 2016 04:14:39 +0200</pubDate>
+        <link>https://corinthiale.github.io/corinthiale/post/2016/11/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/11/06/welcome-to-jekyll.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+  </channel>
+</rss>
