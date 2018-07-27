@@ -4,19 +4,198 @@
     <title>Corinthiale</title>
     <description>The official site of the Corinthiale
 </description>
-    <link>https://corinthiale.github.io/</link>
-    <atom:link href="https://corinthiale.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 06 Nov 2016 02:38:50 +0200</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2016 02:38:50 +0200</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 27 Jul 2018 19:56:25 +0400</pubDate>
+    <lastBuildDate>Fri, 27 Jul 2018 19:56:25 +0400</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
-        <title>It&#39;s alive!</title>
-        <description>&lt;p&gt;Corinthiale page is live.&lt;/p&gt;
+        <title>Results</title>
+        <description>&lt;p&gt;Season 1 Winner:
+&lt;a href=&quot;/corinthiale/post/2016/09/25/s01e04.html&quot;&gt;The Legend of 1900 - NGGRFGGTS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Season 2 Winner:
+&lt;a href=&quot;/corinthiale/post/2016/10/19/s02e04.html&quot;&gt;Unforgiven - NGGRFGGTS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Season 3 Winner:
+&lt;a href=&quot;/corinthiale/post/2016/11/21/s03e03.html&quot;&gt;Ulysses’ Gaze - IVPAPA&lt;/a&gt; (Award ceremony pending)&lt;/p&gt;
+
 </description>
-        <pubDate>Sun, 06 Nov 2016 04:14:39 +0200</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/11/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/11/06/welcome-to-jekyll.html</guid>
+        <pubDate>Tue, 22 Nov 2016 02:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/11/22/results.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/22/results.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>S03E04 - Alan Partridge: Alpha Papa - 2013</title>
+        <description>&lt;p&gt;Alan Partridge: Alpha Papa - 2013&lt;/p&gt;
+
+&lt;p&gt;NGGRFGGTS&lt;/p&gt;
+
+&lt;p&gt;Score: 7.58&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Nov 2016 01:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/11/22/s03e04.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/22/s03e04.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>S03E03 - Ulysses' Gaze - 1995</title>
+        <description>&lt;p&gt;Ulysses’ Gaze - 1995&lt;/p&gt;
+
+&lt;p&gt;IVPAPA&lt;/p&gt;
+
+&lt;p&gt;Score: 8.92&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Nov 2016 01:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/11/21/s03e03.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/21/s03e03.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>S03E02 - Caché - 2005</title>
+        <description>&lt;p&gt;Caché - 2005&lt;/p&gt;
+
+&lt;p&gt;Mitsos&lt;/p&gt;
+
+&lt;p&gt;Score: 7.57&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Nov 2016 01:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/11/13/s03e02.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/13/s03e02.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>S03E01 - The Quiet American - 2002</title>
+        <description>&lt;p&gt;The Quiet American - 2002&lt;/p&gt;
+
+&lt;p&gt;Eleana&lt;/p&gt;
+
+&lt;p&gt;Score: 6.00&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Nov 2016 01:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/11/11/s03e01.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/11/s03e01.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>S02E04 - Unforgiven - 1992</title>
+        <description>&lt;p&gt;Unforgiven - 1992&lt;/p&gt;
+
+&lt;p&gt;NGGRFGGTS&lt;/p&gt;
+
+&lt;p&gt;Score: 7.08&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Oct 2016 01:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/10/19/s02e04.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/10/19/s02e04.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>S02E03 - Blow Up - 1966</title>
+        <description>&lt;p&gt;Blow Up - 1966&lt;/p&gt;
+
+&lt;p&gt;IVPAPA&lt;/p&gt;
+
+&lt;p&gt;Score: 7.00&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Oct 2016 01:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/10/14/s02e03.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/10/14/s02e03.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>S02E02 - After Hours - 1985</title>
+        <description>&lt;p&gt;After Hours - 1985&lt;/p&gt;
+
+&lt;p&gt;Mitsos&lt;/p&gt;
+
+&lt;p&gt;Score: 5.92&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Oct 2016 01:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/10/10/s02e02.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/10/10/s02e02.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>S02E01 - In the Mood for Love - 2000</title>
+        <description>&lt;p&gt;In the Mood for Love - 2000&lt;/p&gt;
+
+&lt;p&gt;Eleana&lt;/p&gt;
+
+&lt;p&gt;Score: 7.05&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Sep 2016 01:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/09/27/s02e01.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/09/27/s02e01.html</guid>
+        
+        
+        <category>corinthiale</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>S01E04 - The Legend of 1900 - 1998</title>
+        <description>&lt;p&gt;The Legend of 1900 - 1998&lt;/p&gt;
+
+&lt;p&gt;NGGRFGGTS&lt;/p&gt;
+
+&lt;p&gt;Score: 7.25&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Sep 2016 01:00:00 +0400</pubDate>
+        <link>http://localhost:4000/corinthiale/post/2016/09/25/s01e04.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/09/25/s01e04.html</guid>
         
         
         <category>corinthiale</category>
