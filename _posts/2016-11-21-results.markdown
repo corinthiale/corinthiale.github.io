@@ -12,5 +12,5 @@ Season 2 Winner:
 [Unforgiven - NGGRFGGTS]({% post_url s02e04 %})
 
 Season 3 Winner:
-[Ulysses' Gaze - IVPAPA]({% post_url s03e03 %})
+[Ulysses' Gaze - IVPAPA]({% post_url s03e03 %}) (Award ceremony pending)
 
