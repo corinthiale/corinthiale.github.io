@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "S03E03 - Ulysses' Gaze - 1995"
-date:   2016-11-20
+date:   2016-11-20 21:00:00
 categories: corinthiale post
 ---
 Ulysses' Gaze - 1995

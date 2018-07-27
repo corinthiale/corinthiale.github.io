@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "S01E01 - No Way Out - 1987"
-date:   2016-09-05
+date:   2016-09-05 21:00:00
 categories: corinthiale post
 ---
 No Way Out - 1987

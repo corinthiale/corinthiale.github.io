@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "S01E03 - The American Friend - 1977"
-date:   2016-09-17
+date:   2016-09-17 21:00:00
 categories: corinthiale post
 ---
 The American Friend - 1977
