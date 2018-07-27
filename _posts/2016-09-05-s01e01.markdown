@@ -5,11 +5,12 @@ date:   2016-09-05 21:00:00
 categories: corinthiale post
 ---
 
+![Poster]({{ "/assets/s01e01.jpg" | absolute_url }})
+![Poster](https://github.com/corinthiale/corinthiale.github.io/raw/master/assets/s01e01.jpg)
+
 No Way Out - 1987
 
 Eleana
 
 Score: 5.17
-
-![Poster](https://github.com/corinthiale/corinthiale.github.io/raw/master/assets/s01e01.jpg)
 
