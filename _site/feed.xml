@@ -4,10 +4,10 @@
     <title>Corinthiale</title>
     <description>The official site of the Corinthiale
 </description>
-    <link>https://corinthiale.github.io/</link>
-    <atom:link href="https://corinthiale.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 27 Jul 2018 20:32:32 +0400</pubDate>
-    <lastBuildDate>Fri, 27 Jul 2018 20:32:32 +0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 27 Jul 2018 21:29:01 +0400</pubDate>
+    <lastBuildDate>Fri, 27 Jul 2018 21:29:01 +0400</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -23,8 +23,8 @@
 
 </description>
         <pubDate>Tue, 22 Nov 2016 02:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/11/22/results.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/11/22/results.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/11/22/results.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/22/results.html</guid>
         
         
         <category>corinthiale</category>
@@ -34,8 +34,8 @@
       </item>
     
       <item>
-        <title>S03E04 - Alan Partridge: Alpha Papa - 2013</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://corinthiale.github.io/assets/s03e04.jpg&quot; alt=&quot;Alan Partridge: Alpha Papa poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>S03E04 - Alan Partridge: Alpha Papa</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/s03e04.jpg&quot; alt=&quot;Alan Partridge: Alpha Papa poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;alan-partridge-alpha-papa---2013&quot;&gt;&lt;strong&gt;Alan Partridge: Alpha Papa&lt;/strong&gt; - 2013&lt;/h1&gt;
 
@@ -45,8 +45,8 @@
 
 </description>
         <pubDate>Tue, 22 Nov 2016 01:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/11/22/s03e04.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/11/22/s03e04.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/11/22/s03e04.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/22/s03e04.html</guid>
         
         
         <category>corinthiale</category>
@@ -56,8 +56,8 @@
       </item>
     
       <item>
-        <title>S03E03 - Ulysses' Gaze - 1995</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://corinthiale.github.io/assets/s03e03.jpg&quot; alt=&quot;Ulysses' Gaze poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>S03E03 - Ulysses' Gaze</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/s03e03.jpg&quot; alt=&quot;Ulysses' Gaze poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;ulysses-gaze---1995&quot;&gt;&lt;strong&gt;Ulysses’ Gaze&lt;/strong&gt; - 1995&lt;/h1&gt;
 
@@ -67,8 +67,8 @@
 
 </description>
         <pubDate>Mon, 21 Nov 2016 01:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/11/21/s03e03.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/11/21/s03e03.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/11/21/s03e03.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/21/s03e03.html</guid>
         
         
         <category>corinthiale</category>
@@ -78,8 +78,8 @@
       </item>
     
       <item>
-        <title>S03E02 - Caché - 2005</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://corinthiale.github.io/assets/s03e02.jpg&quot; alt=&quot;Caché poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>S03E02 - Caché</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/s03e02.jpg&quot; alt=&quot;Caché poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;caché---2005&quot;&gt;&lt;strong&gt;Caché&lt;/strong&gt; - 2005&lt;/h1&gt;
 
@@ -89,8 +89,8 @@
 
 </description>
         <pubDate>Sun, 13 Nov 2016 01:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/11/13/s03e02.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/11/13/s03e02.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/11/13/s03e02.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/13/s03e02.html</guid>
         
         
         <category>corinthiale</category>
@@ -100,8 +100,8 @@
       </item>
     
       <item>
-        <title>S03E01 - The Quiet American - 2002</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://corinthiale.github.io/assets/s03e01.jpg&quot; alt=&quot;The Quiet American poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>S03E01 - The Quiet American</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/s03e01.jpg&quot; alt=&quot;The Quiet American poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;the-quiet-american---2002&quot;&gt;&lt;strong&gt;The Quiet American&lt;/strong&gt; - 2002&lt;/h1&gt;
 
@@ -111,8 +111,8 @@
 
 </description>
         <pubDate>Fri, 11 Nov 2016 01:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/11/11/s03e01.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/11/11/s03e01.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/11/11/s03e01.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/11/11/s03e01.html</guid>
         
         
         <category>corinthiale</category>
@@ -122,8 +122,8 @@
       </item>
     
       <item>
-        <title>S02E04 - Unforgiven - 1992</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://corinthiale.github.io/assets/s02e04.jpg&quot; alt=&quot;Unforgiven poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>S02E04 - Unforgiven</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/s02e04.jpg&quot; alt=&quot;Unforgiven poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;unforgiven---1992&quot;&gt;&lt;strong&gt;Unforgiven&lt;/strong&gt; - 1992&lt;/h1&gt;
 
@@ -133,8 +133,8 @@
 
 </description>
         <pubDate>Wed, 19 Oct 2016 01:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/10/19/s02e04.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/10/19/s02e04.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/10/19/s02e04.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/10/19/s02e04.html</guid>
         
         
         <category>corinthiale</category>
@@ -144,8 +144,8 @@
       </item>
     
       <item>
-        <title>S02E03 - Blow Up - 1966</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://corinthiale.github.io/assets/s02e03.jpg&quot; alt=&quot;Blow Up poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>S02E03 - Blow Up</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/s02e03.jpg&quot; alt=&quot;Blow Up poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;blow-up---1966&quot;&gt;&lt;strong&gt;Blow Up&lt;/strong&gt; - 1966&lt;/h1&gt;
 
@@ -155,8 +155,8 @@
 
 </description>
         <pubDate>Fri, 14 Oct 2016 01:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/10/14/s02e03.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/10/14/s02e03.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/10/14/s02e03.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/10/14/s02e03.html</guid>
         
         
         <category>corinthiale</category>
@@ -166,8 +166,8 @@
       </item>
     
       <item>
-        <title>S02E02 - After Hours - 1985</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://corinthiale.github.io/assets/s02e02.jpg&quot; alt=&quot;After Hours poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>S02E02 - After Hours</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/s02e02.jpg&quot; alt=&quot;After Hours poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;after-hours---1985&quot;&gt;&lt;strong&gt;After Hours&lt;/strong&gt; - 1985&lt;/h1&gt;
 
@@ -177,8 +177,8 @@
 
 </description>
         <pubDate>Mon, 10 Oct 2016 01:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/10/10/s02e02.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/10/10/s02e02.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/10/10/s02e02.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/10/10/s02e02.html</guid>
         
         
         <category>corinthiale</category>
@@ -188,8 +188,8 @@
       </item>
     
       <item>
-        <title>S02E01 - In the Mood for Love - 2000</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://corinthiale.github.io/assets/s02e01.jpg&quot; alt=&quot;In the Mood for Love poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>S02E01 - In the Mood for Love</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/s02e01.jpg&quot; alt=&quot;In the Mood for Love poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;in-the-mood-for-love---2000&quot;&gt;&lt;strong&gt;In the Mood for Love&lt;/strong&gt; - 2000&lt;/h1&gt;
 
@@ -199,8 +199,8 @@
 
 </description>
         <pubDate>Tue, 27 Sep 2016 01:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/09/27/s02e01.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/09/27/s02e01.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/09/27/s02e01.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/09/27/s02e01.html</guid>
         
         
         <category>corinthiale</category>
@@ -210,8 +210,8 @@
       </item>
     
       <item>
-        <title>S01E04 - The Legend of 1900 - 1998</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://corinthiale.github.io/assets/s01e04.jpg&quot; alt=&quot;The Legend of 1900 poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>S01E04 - The Legend of 1900</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/s01e04.jpg&quot; alt=&quot;The Legend of 1900 poster&quot; width=&quot;40%&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;the-legend-of-1900---1998&quot;&gt;&lt;strong&gt;The Legend of 1900&lt;/strong&gt; - 1998&lt;/h1&gt;
 
@@ -221,8 +221,8 @@
 
 </description>
         <pubDate>Sun, 25 Sep 2016 01:00:00 +0400</pubDate>
-        <link>https://corinthiale.github.io/corinthiale/post/2016/09/25/s01e04.html</link>
-        <guid isPermaLink="true">https://corinthiale.github.io/corinthiale/post/2016/09/25/s01e04.html</guid>
+        <link>http://localhost:4000/corinthiale/post/2016/09/25/s01e04.html</link>
+        <guid isPermaLink="true">http://localhost:4000/corinthiale/post/2016/09/25/s01e04.html</guid>
         
         
         <category>corinthiale</category>
