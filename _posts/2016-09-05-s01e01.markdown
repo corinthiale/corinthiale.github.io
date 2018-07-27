@@ -4,10 +4,12 @@ title:  "S01E01 - No Way Out - 1987"
 date:   2016-09-05 21:00:00
 categories: corinthiale post
 ---
-![My helpful screenshot]({{ "/assets/s01e01.jpg" | absolute_url }})
+
+![Poster](/assets/s01e01.jpg)
 
 No Way Out - 1987
 
 Eleana
 
 Score: 5.17
+
