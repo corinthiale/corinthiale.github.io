@@ -11,5 +11,5 @@ Eleana
 
 Score: 5.17
 
-![Poster]({{ "/assets/s01e01.jpg" | absolute_url }})
+![Poster](/assets/s01e01.jpg)
 
