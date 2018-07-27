@@ -6,6 +6,9 @@ categories: corinthiale post
 ---
 
 ![Poster]({{ "/assets/s01e01.jpg" | absolute_url }})
+
+![Poster]({{site.url}}/assets/s01e01.jpg)
+
 ![Poster](https://github.com/corinthiale/corinthiale.github.io/raw/master/assets/s01e01.jpg)
 
 No Way Out - 1987
