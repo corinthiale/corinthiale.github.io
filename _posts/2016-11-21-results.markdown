@@ -6,11 +6,11 @@ categories: corinthiale post
 ---
 
 Season 1 Winner:
-[The Legend of 1900 - NGGRFGGTS]({% post_url 2016-09-24-s01e04 %})
+[The Legend of 1900 - NGGRFGGTS]({% post_url s01e04 %})
 
 Season 2 Winner:
-[Unforgiven - NGGRFGGTS]({% post_url 2016-10-18-s02e04 %})
+[Unforgiven - NGGRFGGTS]({% post_url s02e04 %})
 
 Season 3 Winner:
-[Ulysses' Gaze - IVPAPA]({% post_url 2016-11-20-s03e03 %})
+[Ulysses' Gaze - IVPAPA]({% post_url s03e03 %})
 
