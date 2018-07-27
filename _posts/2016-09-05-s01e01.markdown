@@ -11,5 +11,5 @@ Eleana
 
 Score: 5.17
 
-![Poster](/assets/s01e01.jpg)
+![Poster](https://github.com/corinthiale/corinthiale.github.io/raw/master/assets/s01e01.jpg)
 
