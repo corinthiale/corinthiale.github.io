@@ -10,3 +10,7 @@ github_username: corinthiale
 
 # Build settings
 markdown: kramdown
+
+# Exclude template
+exclude: ['assets/post_template.md']
+
